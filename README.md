@@ -12,7 +12,7 @@ This web application predicts whether a student will get placed based on various
 - **Frontend**: HTML, CSS
 - **Backend**: Flask (Python)
 - **Model**: Machine learning model built with Python libraries (e.g., scikit-learn)
-- **Deployment**: Hosted on [Render](https://render.com)
+- **Deployment**: Hosted on [Render](https://placement-prediction-ml-deploy.onrender.com)
 
 ## Getting Started
 
@@ -31,3 +31,4 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/student-placement-prediction.git
    cd student-placement-prediction
+
