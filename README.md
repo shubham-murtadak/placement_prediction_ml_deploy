@@ -12,6 +12,7 @@ This web application predicts whether a student will get placed based on various
 - **Frontend**: HTML, CSS
 - **Backend**: Flask (Python)
 - **Model**: Machine learning model built with Python libraries (e.g., scikit-learn)
+- **Deployment**: Hosted on [Render](https://render.com)
 
 ## Getting Started
 
